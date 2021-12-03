@@ -1,2 +1,2 @@
 # docker-registry
-Buildingprivate Docker Registry
+Building private Docker Registry
